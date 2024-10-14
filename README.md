@@ -11,6 +11,7 @@ Each day directory contains of:
 
 There is also a model directory with model.sql, constructing general SQL model for exercises where it is needed
 Model looks like:
+
 ![model](model/model.png)
 
 ## Exercises information
