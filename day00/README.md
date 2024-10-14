@@ -4,8 +4,6 @@
 
 Resume: Today you will see how relational model works and how to get needed data based on basic constructions of SQL.
 
-
-## Chapter IV
 ## Exercise 00 — First steps into SQL world
 
 | Exercise 00: First steps into SQL world |                                                                                                                          |
