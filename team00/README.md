@@ -14,7 +14,7 @@ Resume: Today you will implementing a quick solution on SQL to achieve results o
 | Language                        | ANSI SQL|
 | SQL Syntax Pattern                        | Recursive Query|
 
-![T00_02](misc/images/T00_02.png)
+![T00_02](T00_02.png)
 
 Take a look at the Graph on the left. 
 There are 4 cities (a, b, c and d) and arcs between them with costs (or taxes). Actually, the cost is (a,b) = (b,a).
