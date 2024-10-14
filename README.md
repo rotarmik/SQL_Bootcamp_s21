@@ -13,7 +13,7 @@ There is also a model directory with model.sql, constructing general SQL model f
 Model looks like:
 ![model](model/model.png)
 
-## Exercise information
+## Exercises information
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|
 - Day 0: general information about relational model, selecting, basic SQL constructions
 - Day 1: set operations, simple joins
