@@ -23,7 +23,6 @@ Please write a SQL statement that returns the menu identifier and pizza names fr
 
 
 
-## Chapter V
 ## Exercise 01 — UNION dance with subquery
 
 | Exercise 01: UNION dance with subquery|                                                                                                                          |
@@ -45,7 +44,6 @@ Please modify an SQL statement from "Exercise 00" by removing the object_id colu
 | ... |
 
 
-## Chapter VI
 ## Exercise 02 — Duplicates or not duplicates
 
 | Exercise 02: Duplicates or not duplicates|                                                                                                                          |
@@ -59,7 +57,6 @@ Please modify an SQL statement from "Exercise 00" by removing the object_id colu
  
 Write an SQL statement that returns unique pizza names from the `menu` table and sorts them by the pizza_name column in descending order. Please note the Denied section.
 
-## Chapter VII
 ## Exercise 03 — “Hidden” Insights
 
 | Exercise 03: “Hidden” Insights |                                                                                                                          |
@@ -82,7 +79,6 @@ Write an SQL statement that returns common rows for attributes order_date, perso
 | 2022-01-04 | 3 |
 | ... | ... |
 
-## Chapter VIII
 ## Exercise 04 — Difference? Yep, let's find the difference between multisets.
 
 
@@ -97,7 +93,6 @@ Write an SQL statement that returns common rows for attributes order_date, perso
 
 Please write a SQL statement that returns a difference (minus) of person_id column values while saving duplicates between `person_order` table and `person_visits` table for order_date and visit_date are for January 7, 2022.
 
-## Chapter IX
 ## Exercise 05 — Did you hear about Cartesian Product?
 
 
@@ -117,7 +112,6 @@ Please write a SQL statement that returns all possible combinations between `per
 | ... | ... | ... | ... | ... | ... | ... | ... |
 
 
-## Chapter X
 ## Exercise 06 — Lets see on “Hidden” Insights
 
 
@@ -137,7 +131,6 @@ Let's go back to Exercise #03 and modify our SQL statement to return person name
 | 2022-01-01 | Andrey |
 | ... | ... |
 
-## Chapter XI
 ## Exercise 07 — Just make a JOIN
 
 
@@ -158,7 +151,6 @@ Write an SQL statement that returns the order date from the `person_order` table
 | ... | ... |
 
 
-## Chapter XII
 ## Exercise 08 — Migrate JOIN to NATURAL JOIN
 
 
@@ -174,7 +166,6 @@ Write an SQL statement that returns the order date from the `person_order` table
 
 Please rewrite a SQL statement from Exercise #07 by using NATURAL JOIN construction. The result must be the same like for Exercise #07.  
 
-## Chapter XIII
 ## Exercise 09 — IN versus EXISTS
 
 
@@ -187,7 +178,6 @@ Please rewrite a SQL statement from Exercise #07 by using NATURAL JOIN construct
 
 Write 2 SQL statements that return a list of pizzerias that have not been visited by people using IN for the first and EXISTS for the second.
 
-## Chapter XIV
 ## Exercise 10 — Global JOIN
 
 
