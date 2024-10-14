@@ -2,7 +2,7 @@
 SQL Projects from School 21 (Sber)
 
 ## General Information
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|
 These are SQL educational projects from School 21 (Sber). These projects cover all key aspets of relational DB managment.
 
 Each day directory contains of:
@@ -15,7 +15,7 @@ Model looks like:
 ![model](model/model.png)
 
 ## Exercises information
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|
 - Day 0: general information about relational model, selecting, basic SQL constructions
 - Day 1: set operations, simple joins
 - Day 2: diving into JOINs constructions
