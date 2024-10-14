@@ -15,13 +15,13 @@ Model looks like:
 
 ## Exercise information
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|
-Day 0: general information about relational model, selecting, basic SQL constructions
-Day 1: set operations, simple joins
-Day 2: diving into JOINs constructions
-Day 3: DML language basics
-Day 4: making virtual view and physical snapshot of data 
-Day 5: handling with database indexes 
-Day 6: adding new features into data model 
-Day 7: using specific OLAP constructions
-Team 00: implementing a quick solution on SQL to achieve results of Traveling Salesman Problem
+- Day 0: general information about relational model, selecting, basic SQL constructions
+- Day 1: set operations, simple joins
+- Day 2: diving into JOINs constructions
+- Day 3: DML language basics
+- Day 4: making virtual view and physical snapshot of data 
+- Day 5: handling with database indexes 
+- Day 6: adding new features into data model 
+- Day 7: using specific OLAP constructions
+- Team 00: implementing a quick solution on SQL to achieve results of Traveling Salesman Problem
 
