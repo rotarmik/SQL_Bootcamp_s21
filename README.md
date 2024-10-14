@@ -2,7 +2,7 @@
 SQL Projects from School 21 (Sber)
 
 ## General Information
-|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 These are SQL educational projects from School 21 (Sber). These projects cover all key aspets of relational DB managment.
 
 Each day directory contains of:
