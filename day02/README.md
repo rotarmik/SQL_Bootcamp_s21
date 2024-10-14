@@ -4,7 +4,6 @@
 
 Resume: Today you will see how to get needed data based on different structures JOINs.
 
-## Chapter IV
 ## Exercise 00 — Move to the LEFT, move to the RIGHT
 
 | Exercise 00: Move to the LEFT, move to the RIGHT |                                                                                                                          |
@@ -19,7 +18,6 @@ Resume: Today you will see how to get needed data based on different structures 
 Write a SQL statement that returns a list of pizzerias with the corresponding rating value that have not been visited by people.
 
 
-## Chapter V
 ## Exercise 01 — Find data gaps
 
 | Exercise 01: Find data gaps|                                                                                                                          |
@@ -42,7 +40,6 @@ Please write a SQL statement that returns the missing days from January 1 throug
 | ... |
 
 
-## Chapter VI
 ## Exercise 02 — FULL means ‘completely filled’
 
 | Exercise 02: FULL means ‘completely filled’|                                                                                                                          |
@@ -67,7 +64,6 @@ Please write an SQL statement that will return the entire list of names of peopl
 | Dmitriy | null | - |
 | ... | ... | ... |
 
-## Chapter VII
 ## Exercise 03 — Reformat to CTE
 
 | Exercise 03: Reformat to CTE |                                                                                                                          |
@@ -89,7 +85,6 @@ Let's go back to Exercise #01, please rewrite your SQL using the CTE (Common Tab
 | 2022-01-05 | 
 | ... |
 
-## Chapter VIII
 ## Exercise 04 — Find favourite pizzas
 
 
@@ -109,7 +104,6 @@ Find complete information about all possible pizzeria names and prices to get mu
 | pepperoni pizza | Best Pizza | 800 |
 | ... | ... | ... |
 
-## Chapter IX
 ## Exercise 05 — Investigate Person Data
 
 
@@ -129,7 +123,6 @@ Find the names of all females over the age of 25 and sort the result by name. Th
 
 
 
-## Chapter X
 ## Exercise 06 — favourite pizzas for Denis and Anna
 
 
@@ -148,7 +141,6 @@ Find all pizza names (and corresponding pizzeria names using the `menu` table) o
 | cheese pizza | Pizza Hut |
 | ... | ... |
 
-## Chapter XI
 ## Exercise 07 — Cheapest pizzeria for Dmitriy
 
 
@@ -161,7 +153,6 @@ Find all pizza names (and corresponding pizzeria names using the `menu` table) o
 
 Please find the name of the pizzeria Dmitriy visited on January 8, 2022 and could eat pizza for less than 800 rubles.
 
-## Chapter XII
 ## Exercise 08 — Continuing to research data
 
 
@@ -181,7 +172,6 @@ Please find the names of all men from Moscow or Samara who order either pepperon
 | ... |
 
 
-## Chapter XIII
 ## Exercise 09 — Who loves cheese and pepperoni?
 
 
@@ -200,7 +190,6 @@ Find the names of all women who ordered both pepperoni and cheese pizzas (at any
 | ... |
 
 
-## Chapter XIV
 ## Exercise 10 — Find persons from one city
 
 
